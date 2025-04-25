@@ -1,0 +1,8 @@
+{
+    
+    "crispr_python_workflow.sample_name_file": "sample_name.txt",
+    "crispr_python_workflow.library_file": "library.txt",
+    "crispr_python_workflow.library_config_file": "library_parameters.txt",
+    "crispr_python_workflow.annot_file": "/home/groups/mcweeney_lab/jengs/crispr_library_scores/eil_20_21_sequence_sim_le_1.txt",
+    "crispr_python_workflow.script_dir": "/home/groups/mcweeney_lab/jengs/Crispr"
+}   
